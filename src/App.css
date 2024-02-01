@@ -1,0 +1,19 @@
+.bg-light,
+footer {
+  background-color: #075b94 !important;
+}
+
+.navbar-light .navbar-brand {
+  color: #f8f9fa;
+}
+
+navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active {
+  color: #f8f9fa;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #f8f9fa;
+}
